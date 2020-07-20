@@ -24,9 +24,10 @@ export default class Content extends Component {
                 <table>
                     <thead>
                         <tr>
-                            <td>ID</td>
-                            <td>TITLE</td>
-                            <td>COMPLETED</td>
+                            <th>ID</th>
+                            <th>TITLE</th>
+                            <th>COMPLETED</th>
+                            <th></th>
                         </tr>
                     </thead>
                     <tbody>
